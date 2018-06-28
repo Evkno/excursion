@@ -1,12 +1,12 @@
-Hello World
+Excursion Project
 =======================
 
-Inhalt
+LEARN THE COMMAND LINE
 
-## Überschrift ##
+## Discover hidden places in the world around you ##
 
-
-* * Punkt*: ABCDEF
+Your personal travel guide
+* * v. 1.0.1*: 
 
 * ABCDEF
 
